@@ -1,0 +1,60 @@
+HTML --> HyperText Markup Language
+Uses --> To create web pages and web applications
+
+Extension --> .html or .htm
+
+Syntax : 
+<html>
+    <head>
+        <title> ....... </title>
+    </head>
+    <body>
+        ...code
+    </body>
+</html>
+
+How many types of heading tags are there.?
+Ans- 6 types 
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+Basic Tags :
+
+<b> - bold the text
+<i> - italic the text
+<u> - underline the text
+<br> - break the row
+<mark> - highlight the text
+<marquee> - left-right direction
+<sup> - superscript tag
+<sub> - subscript tag
+<hr> - horizontal row
+<strong> - same as bold tag
+<em> - same as italic tag
+<ins> - same as underline tag
+<del> - delete the text
+
+Table tag:
+
+Syntax : 
+
+<table>
+
+</table>
+
+
+Table Tags:
+<table> - to create a table
+<tr> - table row
+<th> - table heading [ by default bold in text]
+<td> - table data
+<caption> - heading in table
+
+
+
+
