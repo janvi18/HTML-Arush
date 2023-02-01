@@ -55,6 +55,34 @@ Table Tags:
 <td> - table data
 <caption> - heading in table
 
+<ol> --> order list
+
+
+Style Types:
+type="1" --> The list items will be numbered with numbers (default)
+type="A" --> The list items will be numbered with uppercase letters
+type="a" --> The list items will be numbered with lowercase letters
+type="I" --> The list items will be numbered with uppercase roman numbers
+type="i" --> The list items will be numbered with lowercase roman numbers
+
+Syntax:-
+<ol style="list-style-type:lower-roman;">
+<li> items </li>
+</ol>
+
+<ul> --> unordered list
+
+Style Types:
+disc --> Sets the list item marker to a bullet (default)
+circle --> Sets the list item marker to a circle
+square --> Sets the list item marker to a square
+none --> The list items will not be marked
+
+
+Syntax:-
+<ul style="list-style-type: circle;">
+<li> items </li>
+</ul>
 
 
 
